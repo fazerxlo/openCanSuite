@@ -18,12 +18,12 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
  * IN THE SOFTWARE.
  */
-#include <qwt/qwt_scale_draw.h>
-#include <qwt/qwt_plot_grid.h>
-#include <qwt/qwt_plot_layout.h>
-#include <qwt/qwt_scale_widget.h>
-#include <qwt/qwt_legend.h>
-#include <qwt/qwt_legend_data.h>
+#include <qwt6/qwt_scale_draw.h>
+#include <qwt6/qwt_plot_grid.h>
+#include <qwt6/qwt_plot_layout.h>
+#include <qwt6/qwt_scale_widget.h>
+#include <qwt6/qwt_legend.h>
+#include <qwt6/qwt_legend_data.h>
 
 #include "QRealtimePlotter.h"
 

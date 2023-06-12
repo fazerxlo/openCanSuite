@@ -7,4 +7,4 @@ QT += core \
       xml
 HEADERS += QRealtimePlotter.h
 SOURCES += QRealtimePlotter.cc
-LIBS += -lqwt-qt5
+LIBS += -lqwt

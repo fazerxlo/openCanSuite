@@ -24,6 +24,7 @@
 
 #include "QCanSignals.h"
 #include "QCanChannel.h"
+#include <linux/sockios.h>
 
 //-----------------------------------------------------------------------------
 /**

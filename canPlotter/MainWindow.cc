@@ -20,7 +20,7 @@
  */
 #include <QDomDocument>
 #include <QVBoxLayout>
-#include <qwt/qwt_slider.h>
+#include <qwt6/qwt_slider.h>
 
 #include "MainWindow.h"
 
